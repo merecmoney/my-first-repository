@@ -17,6 +17,11 @@ my GitHub account is [merecmoney](https://github.com/merecmoney)
 - C
 - Git
 - Linux
+- HTML
+- CSS
+- JavaScript
+- R
+- Groovy
 
 Albert Einstein once said :
 >Logic will get you from A to B. Imagination will take you everywhere.
