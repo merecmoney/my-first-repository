@@ -9,6 +9,9 @@ alias @merecmoney
 my first repository
 
 my GitHub account is [merecmoney](https://github.com/merecmoney)
+
+**Favorite Programming Languages**
+
 - Java
 - Python
 - C
@@ -22,4 +25,4 @@ Albert Einstein once said :
 
 >Imagination is more important than knowledge.
 
-and that is the most important thing for 
+and that is the most important thing for programming
