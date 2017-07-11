@@ -1,6 +1,6 @@
 # my-first-repository
 
-## Hernández Arrieta Carlos Alberto
+## Hernández Arrieta Carlos 
 
 alias @merecmoney
 
