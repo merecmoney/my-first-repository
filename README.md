@@ -1,6 +1,6 @@
 # my-first-repository
 
-## Hernández Arrieta Carlos 
+## Hernández Arrieta Carlos
 
 alias @merecmoney
 
@@ -30,4 +30,11 @@ Albert Einstein once said :
 
 >Imagination is more important than knowledge.
 
-and that is the most important thing for programming
+which is the most important thing for programming
+
+and my Favorite Quote
+
+Alan Turing:
+
+>Sometimes it is the people no one can imagine anything of who do
+the things no one can imagine.
